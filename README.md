@@ -1,4 +1,4 @@
-🧾 Expense Tracker with Machine Learning
+**🧾 Expense Tracker with Machine Learning**
 
 A desktop-based expense management application built with Python, Tkinter, SQLite, and Machine Learning.
 This project goes beyond a simple tracker by integrating AI-powered features such as category suggestions, future expense prediction, and anomaly detection.
