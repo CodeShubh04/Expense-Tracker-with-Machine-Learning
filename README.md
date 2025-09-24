@@ -1,11 +1,11 @@
-#🧾 Expense Tracker with Machine Learning
+# 🧾 Expense Tracker with Machine Learning
 
 A desktop-based expense management application built with Python, Tkinter, SQLite, and Machine Learning.
 This project goes beyond a simple tracker by integrating AI-powered features such as category suggestions, future expense prediction, and anomaly detection.
 
 It is designed as a personal finance assistant that helps users record, analyze, and forecast expenses with ease.
 
-##🚀 Project Overview
+## 🚀 Project Overview
 
 Managing personal finances can be overwhelming, but this Expense Tracker with ML makes it simple and smart:
 
@@ -21,7 +21,7 @@ Managing personal finances can be overwhelming, but this Expense Tracker with ML
 
 With a user-friendly GUI and a robust backend, this app demonstrates the power of combining software engineering, data analytics, and machine learning.
 
-##🛠️ Skills & Technologies Showcased
+## 🛠️ Skills & Technologies Showcased
 
 Programming Languages: Python (OOP + scripting)
 
@@ -53,7 +53,7 @@ Error handling & user prompts in GUI
 
 .gitignore, requirements.txt for clean repo management
 
-##✨ Features
+## ✨ Features
 
 Expense Management
 
@@ -109,7 +109,7 @@ Retrain Models
 
 Delete Selected
 
-##🎯 Services This App Provides
+## 🎯 Services This App Provides
 
 ✔️ Personal finance tracking
 ✔️ Automated categorization of expenses
